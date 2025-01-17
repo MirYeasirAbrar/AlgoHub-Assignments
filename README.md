@@ -106,8 +106,6 @@ Lowest grade: 2.8
 
 ## Author
 
-Mir Yeasir Abrar
-Al-Samiul Ratul 
-Md. Rakibuzzaman
+Mir Yeasir Abrar <br/>
 **Team Name:** Recursify  
  
